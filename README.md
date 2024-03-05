@@ -1,2 +1,2 @@
 # Animen-website
-This is a anime community website for anime fans.It also includes news about manga, manhwa, manhua recommendations and more..
+This is an anime community website for anime fans which also includes news about manga, manhwa, manhua recommendations, and more..
